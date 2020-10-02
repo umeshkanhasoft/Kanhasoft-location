@@ -1,0 +1,45 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    xmlns:tools="http://schemas.android.com/tools"
+4    package="com.kanhasoft.locationtracker"
+5    android:versionCode="1"
+6    android:versionName="1.0" >
+7
+8    <uses-sdk
+9        android:minSdkVersion="16"
+9-->/home/system-15/Desktop/LocationPluginBackup/locationtracker/src/main/AndroidManifest.xml
+10        android:targetSdkVersion="29" />
+10-->/home/system-15/Desktop/LocationPluginBackup/locationtracker/src/main/AndroidManifest.xml
+11
+12    <uses-permission android:name="android.permission.INTERNET" />
+12-->/home/system-15/Desktop/LocationPluginBackup/locationtracker/src/main/AndroidManifest.xml:5:5-67
+12-->/home/system-15/Desktop/LocationPluginBackup/locationtracker/src/main/AndroidManifest.xml:5:22-64
+13
+14    <!-- This permission is need to check the internet connection state ! -->
+15    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+15-->/home/system-15/Desktop/LocationPluginBackup/locationtracker/src/main/AndroidManifest.xml:8:5-79
+15-->/home/system-15/Desktop/LocationPluginBackup/locationtracker/src/main/AndroidManifest.xml:8:22-76
+16    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
+16-->/home/system-15/Desktop/LocationPluginBackup/locationtracker/src/main/AndroidManifest.xml:10:5-79
+16-->/home/system-15/Desktop/LocationPluginBackup/locationtracker/src/main/AndroidManifest.xml:10:22-76
+17    <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION" />
+17-->/home/system-15/Desktop/LocationPluginBackup/locationtracker/src/main/AndroidManifest.xml:11:5-81
+17-->/home/system-15/Desktop/LocationPluginBackup/locationtracker/src/main/AndroidManifest.xml:11:22-78
+18    <uses-permission android:name="android.permission.FOREGROUND_SERVICE" />
+18-->/home/system-15/Desktop/LocationPluginBackup/locationtracker/src/main/AndroidManifest.xml:12:5-77
+18-->/home/system-15/Desktop/LocationPluginBackup/locationtracker/src/main/AndroidManifest.xml:12:22-74
+19
+20    <application
+20-->/home/system-15/Desktop/LocationPluginBackup/locationtracker/src/main/AndroidManifest.xml:14:5-20:19
+21        android:allowBackup="true"
+21-->/home/system-15/Desktop/LocationPluginBackup/locationtracker/src/main/AndroidManifest.xml:15:9-35
+22        android:usesCleartextTraffic="true"
+22-->/home/system-15/Desktop/LocationPluginBackup/locationtracker/src/main/AndroidManifest.xml:16:9-44
+23        tools:targetApi="m" >
+23-->/home/system-15/Desktop/LocationPluginBackup/locationtracker/src/main/AndroidManifest.xml:17:9-28
+24        <service android:name="com.kanhasoft.locationtracker.services.LocationMonitoringService" />
+24-->/home/system-15/Desktop/LocationPluginBackup/locationtracker/src/main/AndroidManifest.xml:18:9-100
+24-->/home/system-15/Desktop/LocationPluginBackup/locationtracker/src/main/AndroidManifest.xml:18:18-97
+25    </application>
+26
+27</manifest>

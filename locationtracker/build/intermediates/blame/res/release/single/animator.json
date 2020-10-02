@@ -1,0 +1,38 @@
+[
+    {
+        "merged": "/home/system-15/Desktop/LocationPluginBackup/locationtracker/build/intermediates/res/merged/release/animator/mtrl_btn_state_list_anim.xml",
+        "source": "/home/system-15/.gradle/caches/transforms-2/files-2.1/d9fe90b20373e53cda14cf70a3a9d6b6/material-1.0.0/res/animator/mtrl_btn_state_list_anim.xml"
+    },
+    {
+        "merged": "/home/system-15/Desktop/LocationPluginBackup/locationtracker/build/intermediates/res/merged/release/animator/design_fab_show_motion_spec.xml",
+        "source": "/home/system-15/.gradle/caches/transforms-2/files-2.1/d9fe90b20373e53cda14cf70a3a9d6b6/material-1.0.0/res/animator/design_fab_show_motion_spec.xml"
+    },
+    {
+        "merged": "/home/system-15/Desktop/LocationPluginBackup/locationtracker/build/intermediates/res/merged/release/animator/mtrl_fab_hide_motion_spec.xml",
+        "source": "/home/system-15/.gradle/caches/transforms-2/files-2.1/d9fe90b20373e53cda14cf70a3a9d6b6/material-1.0.0/res/animator/mtrl_fab_hide_motion_spec.xml"
+    },
+    {
+        "merged": "/home/system-15/Desktop/LocationPluginBackup/locationtracker/build/intermediates/res/merged/release/animator/mtrl_fab_transformation_sheet_expand_spec.xml",
+        "source": "/home/system-15/.gradle/caches/transforms-2/files-2.1/d9fe90b20373e53cda14cf70a3a9d6b6/material-1.0.0/res/animator/mtrl_fab_transformation_sheet_expand_spec.xml"
+    },
+    {
+        "merged": "/home/system-15/Desktop/LocationPluginBackup/locationtracker/build/intermediates/res/merged/release/animator/mtrl_btn_unelevated_state_list_anim.xml",
+        "source": "/home/system-15/.gradle/caches/transforms-2/files-2.1/d9fe90b20373e53cda14cf70a3a9d6b6/material-1.0.0/res/animator/mtrl_btn_unelevated_state_list_anim.xml"
+    },
+    {
+        "merged": "/home/system-15/Desktop/LocationPluginBackup/locationtracker/build/intermediates/res/merged/release/animator/mtrl_fab_show_motion_spec.xml",
+        "source": "/home/system-15/.gradle/caches/transforms-2/files-2.1/d9fe90b20373e53cda14cf70a3a9d6b6/material-1.0.0/res/animator/mtrl_fab_show_motion_spec.xml"
+    },
+    {
+        "merged": "/home/system-15/Desktop/LocationPluginBackup/locationtracker/build/intermediates/res/merged/release/animator/mtrl_chip_state_list_anim.xml",
+        "source": "/home/system-15/.gradle/caches/transforms-2/files-2.1/d9fe90b20373e53cda14cf70a3a9d6b6/material-1.0.0/res/animator/mtrl_chip_state_list_anim.xml"
+    },
+    {
+        "merged": "/home/system-15/Desktop/LocationPluginBackup/locationtracker/build/intermediates/res/merged/release/animator/design_fab_hide_motion_spec.xml",
+        "source": "/home/system-15/.gradle/caches/transforms-2/files-2.1/d9fe90b20373e53cda14cf70a3a9d6b6/material-1.0.0/res/animator/design_fab_hide_motion_spec.xml"
+    },
+    {
+        "merged": "/home/system-15/Desktop/LocationPluginBackup/locationtracker/build/intermediates/res/merged/release/animator/mtrl_fab_transformation_sheet_collapse_spec.xml",
+        "source": "/home/system-15/.gradle/caches/transforms-2/files-2.1/d9fe90b20373e53cda14cf70a3a9d6b6/material-1.0.0/res/animator/mtrl_fab_transformation_sheet_collapse_spec.xml"
+    }
+]

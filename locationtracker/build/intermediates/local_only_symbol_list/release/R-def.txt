@@ -1,0 +1,21 @@
+R_DEF: Internal format may change without notice
+local
+color colorAccent
+color colorPrimary
+color colorPrimaryDark
+id msgView
+layout activity_main
+mipmap ic_launcher
+mipmap ic_launcher_round
+string app_name
+string btn_label_refresh
+string hello_user
+string msg_alert_no_internet
+string msg_location_service_not_started
+string msg_location_service_started
+string no_google_playservice_available
+string permission_denied_explanation
+string permission_rationale
+string settings
+string title_alert_no_intenet
+style AppTheme

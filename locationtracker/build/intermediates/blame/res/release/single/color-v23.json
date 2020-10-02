@@ -1,0 +1,42 @@
+[
+    {
+        "merged": "/home/system-15/Desktop/LocationPluginBackup/locationtracker/build/intermediates/res/merged/release/color-v23/abc_tint_switch_track.xml",
+        "source": "/home/system-15/.gradle/caches/transforms-2/files-2.1/bf96d2b5a86ecd602a621e7e96856420/appcompat-1.2.0/res/color-v23/abc_tint_switch_track.xml"
+    },
+    {
+        "merged": "/home/system-15/Desktop/LocationPluginBackup/locationtracker/build/intermediates/res/merged/release/color-v23/abc_tint_seek_thumb.xml",
+        "source": "/home/system-15/.gradle/caches/transforms-2/files-2.1/bf96d2b5a86ecd602a621e7e96856420/appcompat-1.2.0/res/color-v23/abc_tint_seek_thumb.xml"
+    },
+    {
+        "merged": "/home/system-15/Desktop/LocationPluginBackup/locationtracker/build/intermediates/res/merged/release/color-v23/abc_btn_colored_borderless_text_material.xml",
+        "source": "/home/system-15/.gradle/caches/transforms-2/files-2.1/bf96d2b5a86ecd602a621e7e96856420/appcompat-1.2.0/res/color-v23/abc_btn_colored_borderless_text_material.xml"
+    },
+    {
+        "merged": "/home/system-15/Desktop/LocationPluginBackup/locationtracker/build/intermediates/res/merged/release/color-v23/abc_tint_default.xml",
+        "source": "/home/system-15/.gradle/caches/transforms-2/files-2.1/bf96d2b5a86ecd602a621e7e96856420/appcompat-1.2.0/res/color-v23/abc_tint_default.xml"
+    },
+    {
+        "merged": "/home/system-15/Desktop/LocationPluginBackup/locationtracker/build/intermediates/res/merged/release/color-v23/abc_tint_btn_checkable.xml",
+        "source": "/home/system-15/.gradle/caches/transforms-2/files-2.1/bf96d2b5a86ecd602a621e7e96856420/appcompat-1.2.0/res/color-v23/abc_tint_btn_checkable.xml"
+    },
+    {
+        "merged": "/home/system-15/Desktop/LocationPluginBackup/locationtracker/build/intermediates/res/merged/release/color-v23/abc_color_highlight_material.xml",
+        "source": "/home/system-15/.gradle/caches/transforms-2/files-2.1/bf96d2b5a86ecd602a621e7e96856420/appcompat-1.2.0/res/color-v23/abc_color_highlight_material.xml"
+    },
+    {
+        "merged": "/home/system-15/Desktop/LocationPluginBackup/locationtracker/build/intermediates/res/merged/release/color-v23/abc_tint_edittext.xml",
+        "source": "/home/system-15/.gradle/caches/transforms-2/files-2.1/bf96d2b5a86ecd602a621e7e96856420/appcompat-1.2.0/res/color-v23/abc_tint_edittext.xml"
+    },
+    {
+        "merged": "/home/system-15/Desktop/LocationPluginBackup/locationtracker/build/intermediates/res/merged/release/color-v23/abc_tint_spinner.xml",
+        "source": "/home/system-15/.gradle/caches/transforms-2/files-2.1/bf96d2b5a86ecd602a621e7e96856420/appcompat-1.2.0/res/color-v23/abc_tint_spinner.xml"
+    },
+    {
+        "merged": "/home/system-15/Desktop/LocationPluginBackup/locationtracker/build/intermediates/res/merged/release/color-v23/design_tint_password_toggle.xml",
+        "source": "/home/system-15/.gradle/caches/transforms-2/files-2.1/d9fe90b20373e53cda14cf70a3a9d6b6/material-1.0.0/res/color-v23/design_tint_password_toggle.xml"
+    },
+    {
+        "merged": "/home/system-15/Desktop/LocationPluginBackup/locationtracker/build/intermediates/res/merged/release/color-v23/abc_btn_colored_text_material.xml",
+        "source": "/home/system-15/.gradle/caches/transforms-2/files-2.1/bf96d2b5a86ecd602a621e7e96856420/appcompat-1.2.0/res/color-v23/abc_btn_colored_text_material.xml"
+    }
+]
